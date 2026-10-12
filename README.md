@@ -14,7 +14,7 @@
    ## Key features
    - Background arrays split before injection (leakage audit included)
    - Robust z-score normalisation; training-set DM-time statistics reused for validation, test and holdout
-   - Three CNNs, ten baseline models, three random seeds
+   - Three CNNs, four baseline models, three random seeds
    - Independent final holdout set and hard-negative stress test
 
    ## Citation
