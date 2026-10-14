@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data (do not upload raw data)
+data/*
+!data/.gitkeep
+*.pkl
+results/
